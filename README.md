@@ -3,6 +3,7 @@
 - 👀 I’m interested in Data Analytics/Data Science...
 - 🤝 I’m looking to collaborate on data science/analytics projects. 
 - 💼 Have 4+ years of experience working as an ETL/Data Quality Developer
+- 📈 Tableau Dashboard Profile : https://public.tableau.com/app/profile/aravindakshan.viswanathan.sarma
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/aravindvs) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](http://instagram.com/aravind_sharma21)
 
