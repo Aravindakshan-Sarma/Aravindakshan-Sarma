@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aravindakshan-Sarma
-- 📚 Currently Pursuing Masters in Information Systems @ New Jersey Institute of Technology
+- 📚 Masters in Information Systems @ New Jersey Institute of Technology
 - 👀 I’m interested in Data Analytics/Data Science...
 - 🤝 I’m looking to collaborate on data science/analytics projects. 
 - 💼 Have 4+ years of experience working as an ETL/Data Quality Developer
